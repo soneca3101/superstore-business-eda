@@ -60,4 +60,3 @@ superstore-business-eda/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore

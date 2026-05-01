@@ -59,4 +59,4 @@ superstore-business-eda/
 │   └── executive_summary.md
 │
 ├── README.md
-├── requirements.txt
+└── requirements.txt
